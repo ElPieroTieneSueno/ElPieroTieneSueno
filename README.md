@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, me llamo El Piero tiene sueño</h1>
 <h3 align="center">Somos un equipo de desarrolladores Full Stack Java Trainee</h3>
-![https://github.com/ElPieroTieneSueno](https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-1024x576.jpg)
+![https://github.com/ElPieroTieneSueno](https://github.com/ElPieroTieneSueno/ElPieroTieneSueno/blob/main/img3.png)
 
 - 👨‍💻 All of my projects are available at [available soon](available soon)
 
