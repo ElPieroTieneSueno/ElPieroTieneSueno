@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo El Piero tiene sueño</h1>
 <h3 align="center">Somos un equipo de desarrolladores Full Stack Java Trainee</h3>
 <p align="center">
-  <img src="https://github.com/ElPieroTieneSueno/ElPieroTieneSueno/blob/main/img3.png" width="600" title="hover text">
+  <img src="https://github.com/ElPieroTieneSueno/ElPieroTieneSueno/blob/main/img3.1.png" width="600" title="hover text">
 </p>
 
 
