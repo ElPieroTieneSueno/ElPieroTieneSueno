@@ -5,7 +5,7 @@
 </p>
 
 
-- 👨‍💻 All of my projects are available at [available soon](available soon)
+- 👨‍💻 All of my projects are available at [https://fullstackjavaportafolio.wordpress.com](https://fullstackjavaportafolio.wordpress.com)
 
 - 📫 How to reach me **elpierotienesueno@gmail.com**
 
